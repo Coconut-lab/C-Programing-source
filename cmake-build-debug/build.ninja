@@ -139,6 +139,24 @@ build CMakeFiles/C_Study.dir/CH06/6-13.c.o: C_COMPILER__C_Study_unscanned_Debug 
   OBJECT_DIR = CMakeFiles/C_Study.dir
   OBJECT_FILE_DIR = CMakeFiles/C_Study.dir/CH06
 
+build CMakeFiles/C_Study.dir/CH06/6-13-1.c.o: C_COMPILER__C_Study_unscanned_Debug /Users/chahyeonjin/Documents/C-Study/CH06/6-13-1.c || cmake_object_order_depends_target_C_Study
+  DEP_FILE = CMakeFiles/C_Study.dir/CH06/6-13-1.c.o.d
+  FLAGS = -g -std=gnu99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_Study.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Study.dir/CH06
+
+build CMakeFiles/C_Study.dir/CH07/7-1.c.o: C_COMPILER__C_Study_unscanned_Debug /Users/chahyeonjin/Documents/C-Study/CH07/7-1.c || cmake_object_order_depends_target_C_Study
+  DEP_FILE = CMakeFiles/C_Study.dir/CH07/7-1.c.o.d
+  FLAGS = -g -std=gnu99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_Study.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Study.dir/CH07
+
+build CMakeFiles/C_Study.dir/CH07/7-2.c.o: C_COMPILER__C_Study_unscanned_Debug /Users/chahyeonjin/Documents/C-Study/CH07/7-2.c || cmake_object_order_depends_target_C_Study
+  DEP_FILE = CMakeFiles/C_Study.dir/CH07/7-2.c.o.d
+  FLAGS = -g -std=gnu99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_Study.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_Study.dir/CH07
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C_Study
@@ -147,7 +165,7 @@ build CMakeFiles/C_Study.dir/CH06/6-13.c.o: C_COMPILER__C_Study_unscanned_Debug 
 #############################################
 # Link the executable C_Study
 
-build C_Study: C_EXECUTABLE_LINKER__C_Study_Debug CMakeFiles/C_Study.dir/main.c.o CMakeFiles/C_Study.dir/CH04/4-1.c.o CMakeFiles/C_Study.dir/CH05/5-1.c.o CMakeFiles/C_Study.dir/CH05/5-11.c.o CMakeFiles/C_Study.dir/CH05/5-12.c.o CMakeFiles/C_Study.dir/test.c.o CMakeFiles/C_Study.dir/CH06/6-2.c.o CMakeFiles/C_Study.dir/CH06/6-3.c.o CMakeFiles/C_Study.dir/CH06/6-1.c.o CMakeFiles/C_Study.dir/CH06/6-4.c.o CMakeFiles/C_Study.dir/exam/02.c.o CMakeFiles/C_Study.dir/exam/03.c.o CMakeFiles/C_Study.dir/exam/04.c.o CMakeFiles/C_Study.dir/exam/05.c.o CMakeFiles/C_Study.dir/CH06/6-13.c.o
+build C_Study: C_EXECUTABLE_LINKER__C_Study_Debug CMakeFiles/C_Study.dir/main.c.o CMakeFiles/C_Study.dir/CH04/4-1.c.o CMakeFiles/C_Study.dir/CH05/5-1.c.o CMakeFiles/C_Study.dir/CH05/5-11.c.o CMakeFiles/C_Study.dir/CH05/5-12.c.o CMakeFiles/C_Study.dir/test.c.o CMakeFiles/C_Study.dir/CH06/6-2.c.o CMakeFiles/C_Study.dir/CH06/6-3.c.o CMakeFiles/C_Study.dir/CH06/6-1.c.o CMakeFiles/C_Study.dir/CH06/6-4.c.o CMakeFiles/C_Study.dir/exam/02.c.o CMakeFiles/C_Study.dir/exam/03.c.o CMakeFiles/C_Study.dir/exam/04.c.o CMakeFiles/C_Study.dir/exam/05.c.o CMakeFiles/C_Study.dir/CH06/6-13.c.o CMakeFiles/C_Study.dir/CH06/6-13-1.c.o CMakeFiles/C_Study.dir/CH07/7-1.c.o CMakeFiles/C_Study.dir/CH07/7-2.c.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
   OBJECT_DIR = CMakeFiles/C_Study.dir
   POST_BUILD = :
@@ -651,6 +669,99 @@ build 6-13: C_EXECUTABLE_LINKER__6-13_Debug CMakeFiles/6-13.dir/CH06/6-13.c.o
   TARGET_FILE = 6-13
   TARGET_PDB = 6-13.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 6-13-1
+
+
+#############################################
+# Order-only phony target for 6-13-1
+
+build cmake_object_order_depends_target_6-13-1: phony || .
+
+build CMakeFiles/6-13-1.dir/CH06/6-13-1.c.o: C_COMPILER__6-13-1_unscanned_Debug /Users/chahyeonjin/Documents/C-Study/CH06/6-13-1.c || cmake_object_order_depends_target_6-13-1
+  DEP_FILE = CMakeFiles/6-13-1.dir/CH06/6-13-1.c.o.d
+  FLAGS = -g -std=gnu99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/6-13-1.dir
+  OBJECT_FILE_DIR = CMakeFiles/6-13-1.dir/CH06
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 6-13-1
+
+
+#############################################
+# Link the executable 6-13-1
+
+build 6-13-1: C_EXECUTABLE_LINKER__6-13-1_Debug CMakeFiles/6-13-1.dir/CH06/6-13-1.c.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/6-13-1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 6-13-1
+  TARGET_PDB = 6-13-1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 7-1
+
+
+#############################################
+# Order-only phony target for 7-1
+
+build cmake_object_order_depends_target_7-1: phony || .
+
+build CMakeFiles/7-1.dir/CH07/7-1.c.o: C_COMPILER__7-1_unscanned_Debug /Users/chahyeonjin/Documents/C-Study/CH07/7-1.c || cmake_object_order_depends_target_7-1
+  DEP_FILE = CMakeFiles/7-1.dir/CH07/7-1.c.o.d
+  FLAGS = -g -std=gnu99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/7-1.dir
+  OBJECT_FILE_DIR = CMakeFiles/7-1.dir/CH07
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 7-1
+
+
+#############################################
+# Link the executable 7-1
+
+build 7-1: C_EXECUTABLE_LINKER__7-1_Debug CMakeFiles/7-1.dir/CH07/7-1.c.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/7-1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 7-1
+  TARGET_PDB = 7-1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 7-2
+
+
+#############################################
+# Order-only phony target for 7-2
+
+build cmake_object_order_depends_target_7-2: phony || .
+
+build CMakeFiles/7-2.dir/CH07/7-2.c.o: C_COMPILER__7-2_unscanned_Debug /Users/chahyeonjin/Documents/C-Study/CH07/7-2.c || cmake_object_order_depends_target_7-2
+  DEP_FILE = CMakeFiles/7-2.dir/CH07/7-2.c.o.d
+  FLAGS = -g -std=gnu99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/7-2.dir
+  OBJECT_FILE_DIR = CMakeFiles/7-2.dir/CH07
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 7-2
+
+
+#############################################
+# Link the executable 7-2
+
+build 7-2: C_EXECUTABLE_LINKER__7-2_Debug CMakeFiles/7-2.dir/CH07/7-2.c.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/7-2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 7-2
+  TARGET_PDB = 7-2.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -685,7 +796,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/chahyeonjin/Documents/C-Study/cmake-build-debug
 
-build all: phony C_Study 4-1 CH04_4-1 CH05_5-11 5-11 CH05_5-12 5-12 main test 6-2 6-3 6-1 6-4 02 03 04 6-13
+build all: phony C_Study 4-1 CH04_4-1 CH05_5-11 5-11 CH05_5-12 5-12 main test 6-2 6-3 6-1 6-4 02 03 04 6-13 6-13-1 7-1 7-2
 
 # =============================================================================
 # Built-in targets

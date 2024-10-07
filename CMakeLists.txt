@@ -18,6 +18,9 @@ add_executable(C_Study main.c
         exam/04.c
         exam/05.c
         CH06/6-13.c
+        CH06/6-13-1.c
+        CH07/7-1.c
+        CH07/7-2.c
 )
 
 add_executable(4-1 CH04/4-1.c)
@@ -36,3 +39,6 @@ add_executable(02 exam/02.c)
 add_executable(03 exam/03.c)
 add_executable(04 exam/04.c)
 add_executable(6-13 CH06/6-13.c)
+add_executable(6-13-1 CH06/6-13-1.c)
+add_executable(7-1 CH07/7-1.c)
+add_executable(7-2 CH07/7-2.c)

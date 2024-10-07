@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "CH05_5-12"
+			"path" : "04"
 		}
 	],
 	"backtrace" : 1,
@@ -24,7 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 27,
+				"line" : 40,
 				"parent" : 0
 			}
 		]
@@ -53,7 +53,7 @@
 			]
 		}
 	],
-	"id" : "CH05_5-12::@6890427a1f51a3e7e1df",
+	"id" : "04::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -69,8 +69,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "CH05_5-12",
-	"nameOnDisk" : "CH05_5-12",
+	"name" : "04",
+	"nameOnDisk" : "04",
 	"paths" : 
 	{
 		"build" : ".",
@@ -91,7 +91,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "CH05/5-12.c",
+			"path" : "exam/04.c",
 			"sourceGroupIndex" : 0
 		}
 	],
