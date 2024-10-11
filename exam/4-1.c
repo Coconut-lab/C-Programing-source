@@ -6,7 +6,6 @@
 
 int get_num();
 int encript(int);
-int decript(int);
 
 int main(void) {
     int user[MAX];
@@ -18,8 +17,6 @@ int main(void) {
         printf("%d번째 사용자 비밀번호 입력문: %d\n", i, user[i]);
         encripted[i] = encript(user[i]);
         printf("%d번째 사용자 비밀번호 암호문: %d\n", i, encripted[i]);
-        decripted[i] = decript(encripted[i]);
-        printf("%d번째 사용자 비밀번호 복호문: %d\n", i, decripted[i]);
         printf("-------------------------------------\n");
     }
 }
@@ -31,10 +28,6 @@ int get_num() {
 }
 
 int encript(int num) {
-    return num ^ KEY;
-}
-
-int decript(int num) {
     return num ^ KEY;
 }
 

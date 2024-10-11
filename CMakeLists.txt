@@ -43,9 +43,14 @@ add_executable(C_Study main.c
         과제/1-6-10.c
         과제/1-6-11.c
         과제/1-6-12.c
+        exam/4-1.c
+        exam/06.c
+        exam/07.c
+        exam/08.c
+        exam/09.c
 )
 
-add_executable(4-1 CH04/4-1.c)
+add_executable(4-1 exam/4-1.c)
 add_executable(CH04_4-1 CH04/4-1.c)
 add_executable(CH05_5-11 CH05/5-11.c)
 add_executable(5-11 CH05/5-11.c)
@@ -86,3 +91,8 @@ add_executable(1-6-9 과제/1-6-9.c)
 add_executable(1-6-10 과제/1-6-10.c)
 add_executable(1-6-11 과제/1-6-11.c)
 add_executable(1-6-12 과제/1-6-12.c)
+add_executable(05 exam/05.c)
+
+add_executable(06 exam/06.c)
+add_executable(07 exam/07.c)
+add_executable(08 exam/08.c)

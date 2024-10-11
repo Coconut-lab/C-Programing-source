@@ -1,12 +1,11 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include <limits.h>     // 최대 최소 CHAR_MAX
 #include <string.h>     // strcpy()  함수가 선언된 헤더 파일
-
+#define MAX 100
 
 int main(void) {
-    char diary[CHAR_MAX];           // 최대 크기로 char형 배열을 선언
-    char copy_diary[CHAR_MAX];      // 최대 크기로 char형 배열을 선언
+    char diary[MAX];           // 최대 크기로 char형 배열을 선언
+    char copy_diary[MAX];      // 최대 크기로 char형 배열을 선언
 
     printf("[입력]\n");
     scanf("%[^\n]s", diary);        // 서식 지정자 %[^\n]s 필수
