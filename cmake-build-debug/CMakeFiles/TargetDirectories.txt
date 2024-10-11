@@ -18,5 +18,16 @@
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/6-13-1.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/7-1.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/7-2.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-5-1.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-5-2.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-5-3.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-5-4.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-5-5.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-5-6.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-5-7.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-5-8.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-5-9.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-5-10.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-6-1.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
