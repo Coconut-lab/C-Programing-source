@@ -1730,6 +1730,37 @@ build 08: C_EXECUTABLE_LINKER__08_Debug CMakeFiles/08.dir/exam/08.c.o
   TARGET_FILE = 08
   TARGET_PDB = 08.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 09
+
+
+#############################################
+# Order-only phony target for 09
+
+build cmake_object_order_depends_target_09: phony || .
+
+build CMakeFiles/09.dir/exam/09.c.o: C_COMPILER__09_unscanned_Debug /Users/chahyeonjin/Documents/C-Study/exam/09.c || cmake_object_order_depends_target_09
+  DEP_FILE = CMakeFiles/09.dir/exam/09.c.o.d
+  FLAGS = -g -std=gnu99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/09.dir
+  OBJECT_FILE_DIR = CMakeFiles/09.dir/exam
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 09
+
+
+#############################################
+# Link the executable 09
+
+build 09: C_EXECUTABLE_LINKER__09_Debug CMakeFiles/09.dir/exam/09.c.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/09.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 09
+  TARGET_PDB = 09.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1764,7 +1795,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/chahyeonjin/Documents/C-Study/cmake-build-debug
 
-build all: phony C_Study 4-1 CH04_4-1 CH05_5-11 5-11 CH05_5-12 5-12 main test 6-2 6-3 6-1 6-4 02 03 04 6-13 6-13-1 7-1 7-2 1-5-1 1-5-2 1-5-3 1-5-4 1-5-5 1-5-6 1-5-7 1-5-8 1-5-9 1-5-10 1-6-1 1-6-2 1-6-3 1-6-4 1-6-5 1-6-6 1-6-7 1-6-8 1-6-9 1-6-10 1-6-11 1-6-12 05 06 07 08
+build all: phony C_Study 4-1 CH04_4-1 CH05_5-11 5-11 CH05_5-12 5-12 main test 6-2 6-3 6-1 6-4 02 03 04 6-13 6-13-1 7-1 7-2 1-5-1 1-5-2 1-5-3 1-5-4 1-5-5 1-5-6 1-5-7 1-5-8 1-5-9 1-5-10 1-6-1 1-6-2 1-6-3 1-6-4 1-6-5 1-6-6 1-6-7 1-6-8 1-6-9 1-6-10 1-6-11 1-6-12 05 06 07 08 09
 
 # =============================================================================
 # Built-in targets
