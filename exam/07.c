@@ -17,7 +17,7 @@ int main() {
         printf("문자 입력: ");
         scanf(" %c", &input);
 
-        // 교수님께 질문하기
+        // 질문하기
         if (input >= '0' && input <= '9') {
             printf("반복 문자 입력을 종료합니다.\n");
             break;

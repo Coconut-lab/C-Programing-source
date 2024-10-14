@@ -48,6 +48,14 @@ add_executable(C_Study main.c
         exam/07.c
         exam/08.c
         exam/09.c
+        CH07/7-3.c
+        CH07/7-3-1.c
+        CH07/7-4.c
+        CH07/7-4-1.c
+        CH07/7-5.c
+        CH07/7-6.c
+        CH07/7-11.c
+        CH07/7-13.c
 )
 
 add_executable(4-1 exam/4-1.c)
@@ -97,3 +105,10 @@ add_executable(06 exam/06.c)
 add_executable(07 exam/07.c)
 add_executable(08 exam/08.c)
 add_executable(09 exam/09.c)
+add_executable(7-3 CH07/7-3.c)
+add_executable(7-3-1 CH07/7-3-1.c)
+add_executable(7-4 CH07/7-4.c)
+add_executable(7-4-1 CH07/7-4-1.c)
+add_executable(7-5 CH07/7-5.c)
+add_executable(7-6 CH07/7-6.c)
+add_executable(7-11 CH07/7-11.c)
