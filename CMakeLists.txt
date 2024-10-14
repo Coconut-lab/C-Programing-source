@@ -55,7 +55,8 @@ add_executable(C_Study main.c
         CH07/7-5.c
         CH07/7-6.c
         CH07/7-11.c
-        CH07/7-13.c
+        CH07/7-12.c
+        CH07/7-10.c
 )
 
 add_executable(4-1 exam/4-1.c)
@@ -112,3 +113,4 @@ add_executable(7-4-1 CH07/7-4-1.c)
 add_executable(7-5 CH07/7-5.c)
 add_executable(7-6 CH07/7-6.c)
 add_executable(7-11 CH07/7-11.c)
+add_executable(7-10 CH07/7-10.c)

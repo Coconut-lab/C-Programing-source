@@ -52,5 +52,6 @@
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/7-5.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/7-6.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/7-11.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/7-10.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
