@@ -70,6 +70,10 @@ add_executable(C_Study main.c
         Ready_to_exam/mine03.c
         Ready_to_exam/DiffiHellman.c
         과제/7/1-7-1.c
+        과제/7/1-7-2.c
+        과제/7/1-7-3.c
+        과제/7/1-7-4.c
+        과제/7/1-7-5.c
 )
 
 add_executable(4-1 exam/4-1.c)
@@ -139,3 +143,8 @@ add_executable(8-10 CH08/8-10.c)
 add_executable(8-11 CH08/8-11.c)
 add_executable(mine03 Ready_to_exam/mine03.c)
 add_executable(DiffiHellman Ready_to_exam/DiffiHellman.c)
+add_executable(1-7-1 과제/7/1-7-1.c
+)
+add_executable(1-7-2 과제/7/1-7-2.c)
+add_executable(1-7-3 과제/7/1-7-3.c)
+add_executable(1-7-4 과제/7/1-7-4.c)

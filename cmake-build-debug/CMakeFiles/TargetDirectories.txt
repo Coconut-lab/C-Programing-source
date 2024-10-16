@@ -65,5 +65,9 @@
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/8-11.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/mine03.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/DiffiHellman.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-7-1.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-7-2.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-7-3.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-7-4.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir

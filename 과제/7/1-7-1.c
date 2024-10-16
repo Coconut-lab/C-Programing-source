@@ -2,14 +2,15 @@
 #include <stdio.h>
 
 int main(void) {
-    int num;
+    int num = 0;
+    int result = 0;
 
-    while (1) {
+    while (num != -1) {
+        result += num;
         printf("숫자를 입력하세요(종료: -1): ");
         scanf("%d", &num);
-
-        if (num == -1) {
-            
-        }
     }
+
+    printf("입력한 숫자의 총 합은 %d입니다.\n", result);
+    return 0;
 }
