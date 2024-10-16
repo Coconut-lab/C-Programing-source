@@ -57,6 +57,19 @@ add_executable(C_Study main.c
         CH07/7-11.c
         CH07/7-12.c
         CH07/7-10.c
+        CH08/8-1.c
+        CH08/8-2.c
+        CH08/8-3.c
+        CH08/8-4.c
+        CH08/8-5.c
+        CH08/8-6.c
+        CH08/8-9.c
+        CH08/8-8.c
+        CH08/8-10.c
+        CH08/8-11.c
+        Ready_to_exam/mine03.c
+        Ready_to_exam/DiffiHellman.c
+        과제/7/1-7-1.c
 )
 
 add_executable(4-1 exam/4-1.c)
@@ -114,3 +127,15 @@ add_executable(7-5 CH07/7-5.c)
 add_executable(7-6 CH07/7-6.c)
 add_executable(7-11 CH07/7-11.c)
 add_executable(7-10 CH07/7-10.c)
+add_executable(8-1 CH08/8-1.c)
+add_executable(8-2 CH08/8-2.c)
+add_executable(8-3 CH08/8-3.c)
+add_executable(8-4 CH08/8-4.c)
+add_executable(8-5 CH08/8-5.c)
+add_executable(8-6 CH08/8-6.c)
+add_executable(8-9 CH08/8-9.c)
+add_executable(8-8 CH08/8-8.c)
+add_executable(8-10 CH08/8-10.c)
+add_executable(8-11 CH08/8-11.c)
+add_executable(mine03 Ready_to_exam/mine03.c)
+add_executable(DiffiHellman Ready_to_exam/DiffiHellman.c)

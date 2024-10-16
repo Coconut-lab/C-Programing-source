@@ -23,5 +23,6 @@ int main(void) {
     system("notepad.exe log.txt");     // 윈도우만 가능
     system("notepad.exe 7-10.c");
     printf("파일이 생성되었습니다.\n");
+
     return 0;
 }

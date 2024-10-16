@@ -53,5 +53,17 @@
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/7-6.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/7-11.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/7-10.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/8-1.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/8-2.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/8-3.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/8-4.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/8-5.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/8-6.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/8-9.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/8-8.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/8-10.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/8-11.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/mine03.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/DiffiHellman.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
