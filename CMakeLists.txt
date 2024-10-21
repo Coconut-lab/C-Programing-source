@@ -89,6 +89,19 @@ add_executable(C_Study main.c
         과제/8/1-8-6.c
         exam/2-1.c
         과제/8/1-8-7.c
+        과제/8/1-8-7-1.c
+        과제/8/1-8-8.c
+        과제/8/1-8-9.c
+        과제/8/1-8-10.c
+        과제/9/1-9-1.c
+        과제/9/1-9-2.c
+        과제/9/1-9-3.c
+        과제/9/1-9-4.c
+        과제/9/1-9-5.c
+        과제/9/1-9-6.c
+        CH09/9-1.c
+        CH09/9-1.h
+        CH09/9-2.c
 )
 
 add_executable(4-1 exam/4-1.c)
@@ -178,3 +191,16 @@ add_executable(1-8-4 과제/8/1-8-4.c)
 add_executable(1-8-5 과제/8/1-8-5.c)
 add_executable(1-8-6 과제/8/1-8-6.c)
 add_executable(2-1 exam/2-1.c)
+add_executable(1-8-7 과제/8/1-8-7.c)
+add_executable(1-8-7-1 과제/8/1-8-7-1.c)
+add_executable(1-8-8 과제/8/1-8-8.c)
+add_executable(1-8-9 과제/8/1-8-9.c)
+add_executable(1-8-10 과제/8/1-8-10.c)
+add_executable(1-9-1 과제/9/1-9-1.c)
+add_executable(1-9-2 과제/9/1-9-2.c)
+add_executable(1-9-3 과제/9/1-9-3.c)
+add_executable(1-9-4 과제/9/1-9-4.c)
+add_executable(1-9-5 과제/9/1-9-5.c)
+add_executable(9-1 CH09/9-1.c)
+add_executable(1-9-6 과제/9/1-9-6.c)
+add_executable(9-2 CH09/9-2.c)
