@@ -11,13 +11,16 @@ int main(void) {
     // a1, a2: 외부 입력
     FILE* file1 = NULL;
     file1 = fopen(&"chj09_log.txt", &"a+");
+    printf("수 2개 입력: ");
     scanf("%d %d", &a1, &a2);
     answer = sum(&a1,&a2);    // 함수의 호출
     fprintf(stdout,"%d\n", answer);
     fprintf(file1,"%d\n", answer);
 
     fclose(file1);
-    system("notepad.exe chj09_log.txt");
+    // system("notepad.exe chj09_log.txt");   // 윈도우에서 실행
+    system("open chj09_log.txt");   // 맥에서 실행
+
 
     return 0;
 }
