@@ -15,7 +15,7 @@ int main(void) {
             num2 = temp;
         }
     }
-    printf("두번째로 작은 수: %d\n", num2);
+    printf("두번째로 큰 수: %d\n", num2);
 
     return 0;
 }

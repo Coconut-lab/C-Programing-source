@@ -21,28 +21,28 @@ add_executable(C_Study main.c
         CH06/6-13-1.c
         CH07/7-1.c
         CH07/7-2.c
-        과제/1-5-1.c
-        과제/1-5-2.c
-        과제/1-5-3.c
-        과제/1-5-4.c
-        과제/1-5-5.c
-        과제/1-5-6.c
-        과제/1-5-7.c
-        과제/1-5-8.c
-        과제/1-5-9.c
-        과제/1-5-10.c
-        과제/1-6-1.c
-        과제/1-6-2.c
-        과제/1-6-3.c
-        과제/1-6-4.c
-        과제/1-6-5.c
-        과제/1-6-6.c
-        과제/1-6-7.c
-        과제/1-6-8.c
-        과제/1-6-9.c
-        과제/1-6-10.c
-        과제/1-6-11.c
-        과제/1-6-12.c
+        과제/5/1-5-1.c
+        과제/5/1-5-2.c
+        과제/5/1-5-3.c
+        과제/5/1-5-4.c
+        과제/5/1-5-5.c
+        과제/5/1-5-6.c
+        과제/5/1-5-7.c
+        과제/5/1-5-8.c
+        과제/5/1-5-9.c
+        과제/5/1-5-10.c
+        과제/6/1-6-1.c
+        과제/6/1-6-2.c
+        과제/6/1-6-3.c
+        과제/6/1-6-4.c
+        과제/6/1-6-5.c
+        과제/6/1-6-6.c
+        과제/6/1-6-7.c
+        과제/6/1-6-8.c
+        과제/6/1-6-9.c
+        과제/6/1-6-10.c
+        과제/6/1-6-11.c
+        과제/6/1-6-12.c
         exam/4-1.c
         exam/06.c
         exam/07.c
@@ -100,7 +100,6 @@ add_executable(C_Study main.c
         과제/9/1-9-5.c
         과제/9/1-9-6.c
         CH09/9-1.c
-        CH09/9-1.h
         CH09/9-2.c
         과제/9/1-9-7.c
         과제/9/1-9-8.c
@@ -119,6 +118,43 @@ add_executable(C_Study main.c
         CH09/9-12.c
         CH09/9-13.c
         CH09/9-14.c
+        CH09/9-3.c
+        과제/2/1.c
+        과제/2/2.c
+        과제/2/3.c
+        과제/2/4.c
+        과제/2/5.c
+        과제/2/6.c
+        과제/2/7.c
+        과제/2/8.c
+        과제/2/9.c
+        과제/2/10.c
+        과제/2/11.c
+        과제/2/12.c
+        과제/3/1-3-1.c
+        과제/3/1-3-2.c
+        과제/3/1-3-3.c
+        과제/3/1-3-4.c
+        Ready_to_exam/store.c
+        CH08/8-12.c
+        과제/3/1-3-5.c
+        과제/3/1-3-6.c
+        과제/3/1-3-7.c
+        과제/3/1-3-8.c
+        과제/3/1-3-9.c
+        과제/3/1-3-10.c
+        과제/3/1-3-11.c
+        과제/4/1-4-1.c
+        과제/4/1-4-2.c
+        과제/4/1-4-3.c
+        과제/4/1-4-4.c
+        과제/4/1-4-5.c
+        과제/4/1-4-6.c
+        과제/4/1-4-7.c
+        과제/4/1-4-8.c
+        과제/4/1-4-9.c
+        과제/4/1-4-10.c
+
 )
 
 add_executable(4-1 exam/4-1.c)
@@ -140,28 +176,28 @@ add_executable(6-13 CH06/6-13.c)
 add_executable(6-13-1 CH06/6-13-1.c)
 add_executable(7-1 CH07/7-1.c)
 add_executable(7-2 CH07/7-2.c)
-add_executable(1-5-1 과제/1-5-1.c)
-add_executable(1-5-2 과제/1-5-2.c)
-add_executable(1-5-3 과제/1-5-3.c)
-add_executable(1-5-4 과제/1-5-4.c)
-add_executable(1-5-5 과제/1-5-5.c)
-add_executable(1-5-6 과제/1-5-6.c)
-add_executable(1-5-7 과제/1-5-7.c)
-add_executable(1-5-8 과제/1-5-8.c)
-add_executable(1-5-9 과제/1-5-9.c)
-add_executable(1-5-10 과제/1-5-10.c)
-add_executable(1-6-1 과제/1-6-1.c)
-add_executable(1-6-2 과제/1-6-2.c)
-add_executable(1-6-3 과제/1-6-3.c)
-add_executable(1-6-4 과제/1-6-4.c)
-add_executable(1-6-5 과제/1-6-5.c)
-add_executable(1-6-6 과제/1-6-6.c)
-add_executable(1-6-7 과제/1-6-7.c)
-add_executable(1-6-8 과제/1-6-8.c)
-add_executable(1-6-9 과제/1-6-9.c)
-add_executable(1-6-10 과제/1-6-10.c)
-add_executable(1-6-11 과제/1-6-11.c)
-add_executable(1-6-12 과제/1-6-12.c)
+add_executable(1-5-1 과제/5/1-5-1.c)
+add_executable(1-5-2 과제/5/1-5-2.c)
+add_executable(1-5-3 과제/5/1-5-3.c)
+add_executable(1-5-4 과제/5/1-5-4.c)
+add_executable(1-5-5 과제/5/1-5-5.c)
+add_executable(1-5-6 과제/5/1-5-6.c)
+add_executable(1-5-7 과제/5/1-5-7.c)
+add_executable(1-5-8 과제/5/1-5-8.c)
+add_executable(1-5-9 과제/5/1-5-9.c)
+add_executable(1-5-10 과제/5/1-5-10.c)
+add_executable(1-6-1 과제/6/1-6-1.c)
+add_executable(1-6-2 과제/6/1-6-2.c)
+add_executable(1-6-3 과제/6/1-6-3.c)
+add_executable(1-6-4 과제/6/1-6-4.c)
+add_executable(1-6-5 과제/6/1-6-5.c)
+add_executable(1-6-6 과제/6/1-6-6.c)
+add_executable(1-6-7 과제/6/1-6-7.c)
+add_executable(1-6-8 과제/6/1-6-8.c)
+add_executable(1-6-9 과제/6/1-6-9.c)
+add_executable(1-6-10 과제/6/1-6-10.c)
+add_executable(1-6-11 과제/6/1-6-11.c)
+add_executable(1-6-12 과제/6/1-6-12.c)
 add_executable(05 exam/05.c)
 
 add_executable(06 exam/06.c)
@@ -234,3 +270,39 @@ add_executable(9-13 CH09/9-13.c)
 add_executable(9-12 CH09/9-12.c)
 add_executable(9-11 CH09/9-11.c)
 add_executable(9-14 CH09/9-14.c)
+add_executable(1 과제/2/1.c)
+add_executable(2 과제/2/2.c)
+add_executable(3 과제/2/3.c)
+add_executable(4 과제/2/4.c)
+add_executable(5 과제/2/5.c)
+add_executable(6 과제/2/6.c)
+add_executable(7 과제/2/7.c)
+add_executable(8 과제/2/8.c)
+add_executable(9 과제/2/9.c)
+add_executable(10 과제/2/10.c)
+add_executable(11 과제/2/11.c)
+add_executable(12 과제/2/12.c)
+add_executable(1-3-1 과제/3/1-3-1.c)
+add_executable(1-3-2 과제/3/1-3-2.c)
+add_executable(1-3-3 과제/3/1-3-3.c)
+add_executable(store Ready_to_exam/store.c)
+add_executable(8-12 CH08/8-12.c)
+add_executable(1-3-4 과제/3/1-3-4.c)
+add_executable(1-3-5 과제/3/1-3-5.c)
+add_executable(1-3-7 과제/3/1-3-7.c)
+add_executable(1-3-8 과제/3/1-3-8.c)
+add_executable(1-3-9 과제/3/1-3-9.c)
+add_executable(1-3-10 과제/3/1-3-10.c)
+add_executable(1-3-11 과제/3/1-3-11.c)
+add_executable(1-4-1 과제/4/1-4-1.c)
+
+
+add_executable(1-4-2 과제/4/1-4-2.c)
+
+add_executable(1-4-3 과제/4/1-4-3.c)
+add_executable(1-4-4 과제/4/1-4-4.c)
+add_executable(1-4-5 과제/4/1-4-5.c)
+add_executable(1-4-6 과제/4/1-4-6.c)
+add_executable(1-4-7 과제/4/1-4-7.c)
+add_executable(1-4-8 과제/4/1-4-8.c)
+add_executable(1-4-9 과제/4/1-4-9.c)

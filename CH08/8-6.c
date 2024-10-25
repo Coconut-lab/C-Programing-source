@@ -9,7 +9,7 @@ int main(void) {
     if (num > 0) {
         printf("0보다 큰 수가 num에 저장\n");
     } else if (num == 0) {
-            printf("0이 num에 저장\n");
+        printf("0이 num에 저장\n");
     } else {
         printf("0보다 작은수가 num에 저장\n");
     }
