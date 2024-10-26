@@ -43,7 +43,7 @@ add_executable(C_Study main.c
         과제/6/1-6-10.c
         과제/6/1-6-11.c
         과제/6/1-6-12.c
-        exam/4-1.c
+        exam/4-1-exam.c
         exam/06.c
         exam/07.c
         exam/08.c
@@ -87,7 +87,7 @@ add_executable(C_Study main.c
         과제/8/1-8-4.c
         과제/8/1-8-5.c
         과제/8/1-8-6.c
-        exam/2-1.c
+        exam/2-1-exam.c
         과제/8/1-8-7.c
         과제/8/1-8-7-1.c
         과제/8/1-8-8.c
@@ -154,10 +154,41 @@ add_executable(C_Study main.c
         과제/4/1-4-8.c
         과제/4/1-4-9.c
         과제/4/1-4-10.c
+        Ready_to_exam/DiffiHellman_function.c
+        CH01/1-1.c
+        CH02/2-1.c
+        CH02/2-2.c
+        CH02/2-3.c
+        CH02/2-4.c
+        CH02/2-5.c
+        CH02/2-6.c
+        CH02/2-7.c
+        CH02/2-8.c
+        CH02/2-9.c
+        CH02/2-10.c
+        CH02/2-11.c
+        CH02/2-12.c
+        CH02/2-13.c
+        CH03/3-1.c
+        CH03/3-2.c
+        CH03/3-3.c
+        CH03/3-4.c
+        CH03/3-5.c
+        CH03/3-6.c
+        CH03/3-7.c
+        CH03/3-8.c
+        CH03/3-9.c
+        CH04/4-2.c
+        CH04/4-3.c
+        CH04/4-4.c
+        CH04/4-5.c
+        CH04/4-6.c
+        CH04/4-7.c
+        CH05/5-2.c
 
 )
 
-add_executable(4-1 exam/4-1.c)
+add_executable(4-1 CH04/4-1.c)
 add_executable(CH04_4-1 CH04/4-1.c)
 add_executable(CH05_5-11 CH05/5-11.c)
 add_executable(5-11 CH05/5-11.c)
@@ -243,7 +274,7 @@ add_executable(1-8-3 과제/8/1-8-3.c)
 add_executable(1-8-4 과제/8/1-8-4.c)
 add_executable(1-8-5 과제/8/1-8-5.c)
 add_executable(1-8-6 과제/8/1-8-6.c)
-add_executable(2-1 exam/2-1.c)
+add_executable(2-1 CH02/2-1.c)
 add_executable(1-8-7 과제/8/1-8-7.c)
 add_executable(1-8-7-1 과제/8/1-8-7-1.c)
 add_executable(1-8-8 과제/8/1-8-8.c)
@@ -306,3 +337,34 @@ add_executable(1-4-6 과제/4/1-4-6.c)
 add_executable(1-4-7 과제/4/1-4-7.c)
 add_executable(1-4-8 과제/4/1-4-8.c)
 add_executable(1-4-9 과제/4/1-4-9.c)
+add_executable(DiffiHellman_function Ready_to_exam/DiffiHellman_function.c)
+add_executable(1-1 CH01/1-1.c)
+add_executable(4-1-exam exam/4-1-exam.c)
+add_executable(2-1-exam exam/2-1-exam.c)
+
+add_executable(2-2 CH02/2-2.c)
+add_executable(2-3 CH02/2-3.c)
+add_executable(2-4 CH02/2-4.c)
+add_executable(2-5 CH02/2-5.c)
+add_executable(2-6 CH02/2-6.c)
+add_executable(2-7 CH02/2-7.c)
+add_executable(2-8 CH02/2-8.c)
+add_executable(2-9 CH02/2-9.c)
+add_executable(2-10 CH02/2-10.c)
+add_executable(2-11 CH02/2-11.c)
+add_executable(2-12 CH02/2-12.c)
+add_executable(2-13 CH02/2-13.c)
+add_executable(3-1 CH03/3-1.c)
+add_executable(3-2 CH03/3-2.c)
+add_executable(3-4 CH03/3-4.c)
+add_executable(3-5 CH03/3-5.c)
+add_executable(3-6 CH03/3-6.c)
+add_executable(3-7 CH03/3-7.c)
+add_executable(3-8 CH03/3-8.c)
+add_executable(3-9 CH03/3-9.c)
+add_executable(4-2 CH04/4-2.c)
+add_executable(4-3 CH04/4-3.c)
+add_executable(4-4 CH04/4-4.c)
+add_executable(4-5 CH04/4-5.c)
+add_executable(4-7 CH04/4-7.c)
+add_executable(5-2 CH05/5-2.c)
