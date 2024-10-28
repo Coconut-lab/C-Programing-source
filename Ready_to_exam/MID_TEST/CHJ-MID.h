@@ -2,6 +2,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
+#define MAX 100000
+
 // 기타 여러 함수 추가
 
 double divide(double x, double y) {     // 함수의 정의(11 형태)
