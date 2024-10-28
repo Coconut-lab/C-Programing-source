@@ -4,7 +4,8 @@ int main(void) {
     double num1, num2, result;
     
     while (1) {
-        information();  // ÇÔ¼öÀÇ È£Ãâ(00 ÇüÅÂ)
+        
+        information();  // Ã‡Ã”Â¼Ã¶Ã€Ã‡ ÃˆÂ£ÃƒÃ¢(00 Ã‡Ã¼Ã…Ã‚)
         num1 = input();
         num2 = input();
 
