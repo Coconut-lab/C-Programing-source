@@ -1,26 +1,27 @@
 #pragma once
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-double divide(double x, double y) {     // ÇÔ¼öÀÇ Á¤ÀÇ(11 ÇüÅÂ)
+// ê¸°íƒ€ ì—¬ëŸ¬ í•¨ìˆ˜ ì¶”ê°€
+
+double divide(double x, double y) {     // í•¨ìˆ˜ì˜ ì •ì˜(11 í˜•íƒœ)
     double val;
     val = x / y;
     return val;
 }
 
-double input(void) {        // ÇÔ¼öÀÇ Á¤ÀÇ(10 ÇüÅÂ)
+double input(void) {        // í•¨ìˆ˜ì˜ ì •ì˜(10 í˜•íƒœ)
     double val;
     scanf("%lf", &val);
     return val;
 }
 
-void output(double x) {     // ÇÔ¼öÀÇ Á¤ÀÇ(01 ÇüÅÂ)
-    printf("°á°ú: %lf\n", x);
+void output(double x) {     // í•¨ìˆ˜ì˜ ì •ì˜(01 í˜•íƒœ)
+    printf("ê²°ê³¼: %lf\n", x);
     return;
 }
 
-void information(void) {        // ÇÔ¼öÀÇ Á¤ÀÇ(00 ÇüÅÂ)
-    printf("--- ÇÁ·Î±×·¥ ½ÃÀÛ ---\n");
+void information(void) {        // í•¨ìˆ˜ì˜ ì •ì˜(00 í˜•íƒœ)
+    printf("--- í”„ë¡œê·¸ë¨ ì‹œì‘ ---\n");
     return;
 }
