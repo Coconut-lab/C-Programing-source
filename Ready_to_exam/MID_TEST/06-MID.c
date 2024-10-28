@@ -1,4 +1,4 @@
-#include "CHJ.h"
+#include "CHJ-MID.h"
 
 int main(void) {
     double num1, num2, result;
