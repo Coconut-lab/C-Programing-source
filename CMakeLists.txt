@@ -185,6 +185,40 @@ add_executable(C_Study main.c
         CH04/4-6.c
         CH04/4-7.c
         CH05/5-2.c
+        CH05/5-3.c
+        CH05/5-4.c
+        CH05/5-5.c
+        CH05/5-6.c
+        CH05/5-7.c
+        CH05/5-8.c
+        CH05/5-9.c
+        CH05/5-10.c
+        CH05/5-13.c
+        CH05/5-14.c
+        CH05/5-15.c
+        CH05/5-16.c
+        CH05/5-17.c
+        CH05/5-18.c
+        CH06/6-5.c
+        CH06/6-6.c
+        CH06/6-7.c
+        CH06/6-8.c
+        CH06/6-9.c
+        CH06/6-10.c
+        CH06/6-11.c
+        CH06/6-12.c
+        CH06/6-14.c
+        CH07/7-7.c
+        CH07/7-8.c
+        CH07/7-9.c
+        CH07/7-13.c
+        CH07/7-14.c
+        CH07/7-15.c
+        CH08/8-13.c
+        CH09/9-5.c
+        CH09/9-6.c
+        CH09/9-7.c
+        Ready_to_exam/DiffiHellman_modul.c
 
 )
 
@@ -368,3 +402,32 @@ add_executable(4-4 CH04/4-4.c)
 add_executable(4-5 CH04/4-5.c)
 add_executable(4-7 CH04/4-7.c)
 add_executable(5-2 CH05/5-2.c)
+add_executable(5-1 CH05/5-1.c)
+add_executable(5-3 CH05/5-3.c)
+add_executable(5-4 CH05/5-4.c)
+add_executable(5-5 CH05/5-5.c)
+add_executable(5-6 CH05/5-6.c)
+add_executable(5-7 CH05/5-7.c)
+add_executable(5-8 CH05/5-8.c)
+add_executable(5-9 CH05/5-9.c)
+add_executable(5-10 CH05/5-10.c)
+add_executable(5-13 CH05/5-13.c)
+add_executable(5-15 CH05/5-15.c)
+add_executable(5-16 CH05/5-16.c)
+add_executable(5-17 CH05/5-17.c)
+add_executable(5-18 CH05/5-18.c)
+add_executable(6-5 CH06/6-5.c)
+add_executable(6-6 CH06/6-6.c)
+add_executable(6-7 CH06/6-7.c)
+add_executable(6-9 CH06/6-9.c)
+add_executable(6-10 CH06/6-10.c)
+add_executable(6-11 CH06/6-11.c)
+add_executable(6-12 CH06/6-12.c)
+add_executable(6-14 CH06/6-14.c)
+add_executable(7-7 CH07/7-7.c)
+add_executable(7-8 CH07/7-8.c)
+add_executable(7-14 CH07/7-14.c)
+add_executable(7-15 CH07/7-15.c)
+add_executable(8-13 CH08/8-13.c)
+add_executable(9-5 CH09/9-5.c)
+add_executable(DiffiHellman_modul Ready_to_exam/DiffiHellman_modul.c)
