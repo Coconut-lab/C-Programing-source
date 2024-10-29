@@ -229,6 +229,7 @@ add_executable(C_Study main.c
         Ready_to_exam/fibonachi.c
         Ready_to_exam/reverse_word.c
         Ready_to_exam/GCD.c
+        Ready_to_exam/answer4.c
 
 )
 
