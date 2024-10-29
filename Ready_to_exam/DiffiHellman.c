@@ -3,8 +3,8 @@
 
 void line_make();
 int main() {
-    int official_num = 8;
-    int Apassword = 3, Bpassword = 5;
+    int official_num = 2024;
+    int Apassword = 1234, Bpassword = 5678;
     int Aresult, Bresult;
 
     printf("Diffi Hellman 증명 프로그램\n");

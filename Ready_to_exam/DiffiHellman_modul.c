@@ -5,7 +5,7 @@ void line_make();
 int create_encryption(int public_key, int private_key);
 int get_secret(int encrypted_message, int private_key);
 
-int main() {
+int main(void) {
     int official_num = 8;
     int Apassword = 3, Bpassword = 5;
     int Aresult, Bresult;

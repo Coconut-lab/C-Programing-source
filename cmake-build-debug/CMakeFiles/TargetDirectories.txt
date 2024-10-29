@@ -201,5 +201,11 @@
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/8-13.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/9-5.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/DiffiHellman_modul.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/answer1.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/answer2.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/answer3.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/factorial.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/fibonachi.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/reverse_word.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir

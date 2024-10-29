@@ -219,6 +219,16 @@ add_executable(C_Study main.c
         CH09/9-6.c
         CH09/9-7.c
         Ready_to_exam/DiffiHellman_modul.c
+        Ready_to_exam/answer1.c
+        Ready_to_exam/answer1.h
+        Ready_to_exam/MID_TEST/CHJ-MID.h
+        Ready_to_exam/answer2.c
+        Ready_to_exam/answer2.h
+        Ready_to_exam/answer3.c
+        Ready_to_exam/factorial.c
+        Ready_to_exam/fibonachi.c
+        Ready_to_exam/reverse_word.c
+        Ready_to_exam/GCD.c
 
 )
 
@@ -431,3 +441,9 @@ add_executable(7-15 CH07/7-15.c)
 add_executable(8-13 CH08/8-13.c)
 add_executable(9-5 CH09/9-5.c)
 add_executable(DiffiHellman_modul Ready_to_exam/DiffiHellman_modul.c)
+add_executable(answer1 Ready_to_exam/answer1.c)
+add_executable(answer2 Ready_to_exam/answer2.c)
+add_executable(answer3 Ready_to_exam/answer3.c)
+add_executable(factorial Ready_to_exam/factorial.c)
+add_executable(fibonachi Ready_to_exam/fibonachi.c)
+add_executable(reverse_word Ready_to_exam/reverse_word.c)

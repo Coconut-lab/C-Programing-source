@@ -15,8 +15,7 @@ int main(void) {
 int checkInt(char ch) {
     if (ch >= '0' && ch <= '9') {
         return printf("입력한 문자 %c는(은) 숫자입니다.\n", ch);
-    }
-    else {
+    } else {
         return printf("입력한 문자 %c는(은) 숫자가 아닙니다.\n", ch);
     }
 }

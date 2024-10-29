@@ -1,8 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#define  official_num 8     // 공용키
-#define Apassword 3        // A의 비밀값
-#define Bpassword 5       // B의 비밀값
+#define  official_num 2024     // 공용키
+#define Apassword 1234        // A의 비밀값
+#define Bpassword 5678       // B의 비밀값
 
 void line_make(void);
 int public_transport(int);
