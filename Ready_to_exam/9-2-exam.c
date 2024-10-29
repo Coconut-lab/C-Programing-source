@@ -14,9 +14,9 @@ int main(void) {
 	printf("수 2개 입력: ");
 	scanf("%d %d", &a1, &a2);
 
-	
 	fileopen(&"csb09_log.txt", &"a+");
 	answer = sum(&a1, &a2);
+
 	fprintf(stdout, "%d\n", answer);
 	fprintf(file1, "%d\n", answer);
 

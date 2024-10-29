@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-// 탈출조선, 파일출력 응용
+// 탈출조건, 파일출력 응용
 
 int main() {
 	int num1, num2;

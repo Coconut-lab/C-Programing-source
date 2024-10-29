@@ -150,11 +150,11 @@
 				98,
 				99,
 				100,
-				101,
+				102,
 				103,
 				104,
 				105,
-				106,
+				107,
 				108,
 				109,
 				110,
@@ -263,8 +263,8 @@
 				213,
 				214,
 				215,
-				216,
-				219,
+				218,
+				220,
 				221,
 				222,
 				223,
@@ -404,11 +404,11 @@
 				98,
 				99,
 				100,
-				101,
+				102,
 				103,
 				104,
 				105,
-				106,
+				107,
 				108,
 				109,
 				110,
@@ -517,8 +517,8 @@
 				213,
 				214,
 				215,
-				216,
-				219,
+				218,
+				220,
 				221,
 				222,
 				223,
@@ -531,11 +531,11 @@
 			"name" : "Header Files",
 			"sourceIndexes" : 
 			[
-				102,
-				107,
+				101,
+				106,
+				216,
 				217,
-				218,
-				220
+				219
 			]
 		}
 	],
@@ -569,12 +569,6 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "CH05/5-12.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "test.c",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -1896,6 +1890,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Ready_to_exam/answer4.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Ready_to_exam/test.c",
 			"sourceGroupIndex" : 0
 		}
 	],

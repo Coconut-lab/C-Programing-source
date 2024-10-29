@@ -8,7 +8,6 @@ add_executable(C_Study main.c
         CH05/5-1.c
         CH05/5-11.c
         CH05/5-12.c
-        test.c
         CH06/6-2.c
         CH06/6-3.c
         CH06/6-1.c
@@ -230,6 +229,7 @@ add_executable(C_Study main.c
         Ready_to_exam/reverse_word.c
         Ready_to_exam/GCD.c
         Ready_to_exam/answer4.c
+        Ready_to_exam/test.c
 
 )
 
@@ -240,7 +240,7 @@ add_executable(5-11 CH05/5-11.c)
 add_executable(CH05_5-12 CH05/5-12.c)
 add_executable(5-12 CH05/5-12.c)
 add_executable(main main.c)
-add_executable(test test.c)
+add_executable(test Ready_to_exam/test.c)
 add_executable(6-2 CH06/6-2.c)
 add_executable(6-3 CH06/6-3.c)
 add_executable(6-1 CH06/6-1.c)
