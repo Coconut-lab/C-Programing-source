@@ -230,6 +230,17 @@ add_executable(C_Study main.c
         Ready_to_exam/GCD.c
         Ready_to_exam/answer4.c
         Ready_to_exam/test.c
+        Ready_to_exam/file-record.c
+        CH10/10-1.c
+        CH10/10-2.c
+        CH10/10-3.c
+        CH10/10-4.c
+        CH10/10-5.c
+        CH10/10-6.c
+        CH10/10-7.c
+        CH10/10-8.c
+        CH10/10-9.c
+        CH10/10-mine01.c
 
 )
 
@@ -448,3 +459,11 @@ add_executable(answer3 Ready_to_exam/answer3.c)
 add_executable(factorial Ready_to_exam/factorial.c)
 add_executable(fibonachi Ready_to_exam/fibonachi.c)
 add_executable(reverse_word Ready_to_exam/reverse_word.c)
+
+add_executable(file-record Ready_to_exam/file-record.c)
+add_executable(10-1 CH10/10-1.c)
+add_executable(10-2 CH10/10-2.c)
+add_executable(10-3 CH10/10-3.c)
+add_executable(10-4 CH10/10-4.c)
+add_executable(10-5 CH10/10-5.c)
+add_executable(10-mine01 CH10/10-mine01.c)

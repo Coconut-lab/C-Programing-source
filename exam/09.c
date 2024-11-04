@@ -13,28 +13,28 @@ int checkInt(int a, int b) {
 
 int main() {
     int num1, num2;
-    char input[20];
+    int result_num;
 
     while (1) {
         printf("2개 숫자 입력(예: 2 5): ");
-        fgets(input, sizeof(input), stdin);
+        result_num = scanf("%d %d", &num1, &num2);
 
-        if (scanf(input, "%d %d", &num1, &num2) == 2) {
+        if (result_num == 2) {
             int result = checkInt(num1, num2);
 
             switch (result) {
                 case 1:
                     printf("큰 값: %d, 작은 값: %d\n", num1, num2);
-                    printf("----------------------------------\n");
-                    break;
+                printf("----------------------------------\n");
+                break;
                 case 2:
                     printf("큰 값: %d, 작은 값: %d\n", num2, num1);
-                    printf("----------------------------------\n");
-                    break;
+                printf("----------------------------------\n");
+                break;
                 case 3:
                     printf("두 수가 같다.\n");
-                    printf("----------------------------------\n");
-                    break;
+                printf("----------------------------------\n");
+                break;
             }
         } else {
             printf("숫자를 입력하세요. 프로그램을 종료합니다.\n");

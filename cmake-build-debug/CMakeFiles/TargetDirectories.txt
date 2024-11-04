@@ -207,5 +207,12 @@
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/factorial.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/fibonachi.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/reverse_word.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/file-record.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/10-1.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/10-2.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/10-3.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/10-4.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/10-5.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/10-mine01.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
