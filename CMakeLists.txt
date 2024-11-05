@@ -241,6 +241,13 @@ add_executable(C_Study main.c
         CH10/10-8.c
         CH10/10-9.c
         CH10/10-mine01.c
+        과제/10/2-10-5.c
+        과제/10/2-10-6.c
+        과제/10/2-10-7.c
+        과제/10/2-10-1.c
+        과제/10/2-10-2.c
+        과제/10/2-10-3.c
+        과제/10/2-10-4.c
 
 )
 
@@ -467,3 +474,10 @@ add_executable(10-3 CH10/10-3.c)
 add_executable(10-4 CH10/10-4.c)
 add_executable(10-5 CH10/10-5.c)
 add_executable(10-mine01 CH10/10-mine01.c)
+add_executable(2-10-5 과제/10/2-10-5.c)
+add_executable(2-10-6 과제/10/2-10-6.c)
+add_executable(2-10-7 과제/10/2-10-7.c)
+add_executable(2-10-1 과제/10/2-10-1.c)
+add_executable(2-10-2 과제/10/2-10-2.c)
+add_executable(2-10-3 과제/10/2-10-3.c)
+add_executable(2-10-4 과제/10/2-10-4.c)
