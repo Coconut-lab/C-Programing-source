@@ -2,22 +2,24 @@
 #include <stdio.h>
 
 int main(void) {
-	char arr[12];
-	char* cp = NULL;
+    int a = 0, b = 0, c = 0;
+	int* p1 = NULL;
+	int* p2 = NULL;
+	int** pp = NULL;
 
-	cp = arr;
+	pp = &p2;
 
-	printf("문자열 입력(공백 불가): ");
-	scanf("%s", cp);
+	p1 = &a;
+	*p1 = 10;
+	printf("a = %d, b = %d, c = %d\n", a, b, c);
 
-	printf("문자열 출력: ");
-	for (int i = 0; i < 12; i++) {
-		if (cp[i] == '\0') {
-			break;
-		}
-		printf("%c", cp[i]);
-	}
-	printf("\n");
+	p1 = &b;
+	*p1 = 20;
+	printf("a = %d, b = %d, c = %d\n", a, b, c);
+
+	p2 = &c;
+	**pp = 30;
+	printf("a = %d, b = %d, c = %d\n", a, b, c);
 
 	return 0;
 }
