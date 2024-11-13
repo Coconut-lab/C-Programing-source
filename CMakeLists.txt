@@ -253,6 +253,18 @@ add_executable(C_Study main.c
         과제/11/11-5.c
         과제/11/11-6.c
         과제/11/11-7.c
+        CH12/12-1.c
+        CH12/12-5.c
+        CH12/12-11.c
+        CH12/12-13.c
+        과제/12/2-12-1.c
+        과제/12/2-12-2.c
+        과제/12/2-12-3.c
+        과제/12/2-12-4.c
+        과제/12/2-12-5.c
+        과제/12/2-12-6.c
+        과제/12/2-12-8.c
+        과제/12/2-12-9.c
 
 )
 
@@ -490,3 +502,12 @@ add_executable(11-4 과제/11/11-4.c)
 add_executable(11-5 과제/11/11-5.c)
 add_executable(11-6 과제/11/11-6.c)
 add_executable(11-7 과제/11/11-7.c)
+add_executable(12-1 CH12/12-1.c)
+add_executable(2-12-1 과제/12/2-12-1.c)
+add_executable(2-12-2 과제/12/2-12-2.c)
+add_executable(2-12-3 과제/12/2-12-3.c)
+add_executable(2-12-4 과제/12/2-12-4.c)
+add_executable(2-12-5 과제/12/2-12-5.c)
+add_executable(2-12-6 과제/12/2-12-6.c)
+add_executable(2-12-8 과제/12/2-12-8.c)
+add_executable(2-12-9 과제/12/2-12-9.c)
