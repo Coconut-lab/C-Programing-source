@@ -5,16 +5,13 @@ void init(int* p, int num);
 
 int main(void) {
     int arr[3];
-    int* p = NULL;
-
-    p = arr;
 
     printf("배열의 초기화 전: ");
-    for (int i = 0; i < 3; i++) {
+    for (int i = 0; i < sizeof(arr) / sizeof(int); i++) {
         printf("arr[%d] = %d ", i, arr[i]);
     }
 
-    init(p, 3);
+    init(arr, sizeof(arr) / sizeof(int));
 
     printf("\n배열의 초기화: ");
     for (int j = 0; j < 3; j++) {

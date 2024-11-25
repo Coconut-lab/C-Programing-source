@@ -286,6 +286,18 @@ add_executable(C_Study main.c
         CH13/13-10.c
         과제/14/2-14-1.c
         CH13/13-11.c
+        CH13/13-16.c
+        CH14/14-1.c
+        과제/14/2-14-2.c
+        과제/14/2-14-3.c
+        과제/14/2-14-4.c
+        과제/14/2-14-5.c
+        과제/14/2-14-6.c
+        과제/14/2-14-7.c
+        과제/14/2-14-8.c
+        CH14/14-2.c
+        CH14/14-3.c
+        CH14/14-4.c
 
 )
 
@@ -551,3 +563,12 @@ add_executable(13-9 CH13/13-9.c)
 add_executable(13-10 CH13/13-10.c)
 add_executable(2-14-1 과제/14/2-14-1.c)
 add_executable(13-11 CH13/13-11.c)
+add_executable(14-1 CH14/14-1.c)
+add_executable(2-14-2 과제/14/2-14-2.c)
+add_executable(2-14-3 과제/14/2-14-3.c)
+add_executable(2-14-4 과제/14/2-14-4.c)
+add_executable(2-14-5 과제/14/2-14-5.c)
+add_executable(2-14-6 과제/14/2-14-6.c)
+add_executable(2-14-7 과제/14/2-14-7.c)
+add_executable(2-14-8 과제/14/2-14-8.c)
+add_executable(14-2 CH14/14-2.c)
