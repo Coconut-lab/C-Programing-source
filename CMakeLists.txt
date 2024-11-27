@@ -302,6 +302,9 @@ add_executable(C_Study main.c
         CH14/14-6.c
         CH14/14-8.c
         CH14/14-9.c
+        CH14/14-11.c
+        CH14/14-18.c
+        CH14/14-19.c
 
 )
 
@@ -577,3 +580,4 @@ add_executable(2-14-7 과제/14/2-14-7.c)
 add_executable(2-14-8 과제/14/2-14-8.c)
 add_executable(14-2 CH14/14-2.c)
 add_executable(14-5 CH14/14-5.c)
+add_executable(14-11 CH14/14-11.c)
