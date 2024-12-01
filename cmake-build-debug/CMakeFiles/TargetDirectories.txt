@@ -102,7 +102,6 @@
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-9-9.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/1-9-11.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/menu.dir
-/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/9-2-exam.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/9-8.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/9-10.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/9-13.dir
