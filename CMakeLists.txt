@@ -231,16 +231,16 @@ add_executable(C_Study main.c
         Ready_to_exam/answer4.c
         Ready_to_exam/test.c
         Ready_to_exam/file-record.c
-        final/CH10/10-1.c
-        final/CH10/10-2.c
-        final/CH10/10-3.c
-        final/CH10/10-4.c
-        final/CH10/10-5.c
-        final/CH10/10-6.c
-        final/CH10/10-7.c
-        final/CH10/10-8.c
-        final/CH10/10-9.c
-        final/CH10/10-mine01.c
+        final/Part2-1/P2-1-1.c
+        final/Part2-1/P2-1-2.c
+        final/Part2-1/P2-1-3.c
+        final/Part2-1/P2-1-4.c
+        final/Part2-1/P2-1-5.c
+        final/Part2-1/P2-1-6.c
+        final/Part2-1/P2-1-7.c
+        final/Part2-1/P2-1-8.c
+        final/Part2-1/P2-1-9.c
+        final/Part2-1/P2-1-10.c
         과제/10/2-10-5.c
         과제/10/2-10-6.c
         과제/10/2-10-7.c
@@ -248,15 +248,15 @@ add_executable(C_Study main.c
         과제/10/2-10-2.c
         과제/10/2-10-3.c
         과제/10/2-10-4.c
-        final/CH11/11-1.c
+        final/Part2-2/P2-2-1.c
         과제/11/2-11-4.c
         과제/11/2-11-5.c
         과제/11/2-11-6.c
         과제/11/2-11-7.c
-        final/CH12/12-1.c
-        final/CH12/12-5.c
-        final/CH12/12-11.c
-        final/CH12/12-13.c
+        final/Part2-3/P2-3-2.c
+        final/Part2-3/P2-3-5.c
+        final/Part2-3/P2-3-11.c
+        final/Part2-3/P2-3-13.c
         과제/13/2-13-1.c
         과제/13/2-13-2.c
         과제/13/2-13-3.c
@@ -272,22 +272,22 @@ add_executable(C_Study main.c
         과제/12/2-12-5.c
         과제/12/2-12-6.c
         과제/12/2-12-7.c
-        final/CH12/12-7.c
-        final/CH13/13-1.c
-        final/CH13/13-2.c
-        final/CH13/13-3.c
-        final/CH13/13-3-1.c
-        final/CH13/13-4.c
-        final/CH13/13-5.c
-        final/CH13/13-6.c
-        final/CH13/13-7.c
-        final/CH13/13-8.c
-        final/CH13/13-9.c
-        final/CH13/13-10.c
+        final/Part2-3/P2-3-7.c
+        final/Part2-5/P2-5-1.c
+        final/Part2-5/P2-5-2.c
+        final/Part2-5/P2-5-3.c
+        final/Part2-5/P2-5-3-1.c
+        final/Part2-5/P2-5-4.c
+        final/Part2-5/P2-5-5.c
+        final/Part2-5/P2-5-6.c
+        final/Part2-5/P2-5-7.c
+        final/Part2-5/P2-5-8.c
+        final/Part2-5/P2-5-9.c
+        final/Part2-5/P2-5-10.c
         과제/14/2-14-1.c
-        final/CH13/13-11.c
-        final/CH13/13-16.c
-        final/CH14/14-1.c
+        final/Part2-5/P2-5-11.c
+        final/Part2-5/P2-5-16.c
+        final/Part3-1/P3-1-1.c
         과제/14/2-14-2.c
         과제/14/2-14-3.c
         과제/14/2-14-4.c
@@ -295,17 +295,43 @@ add_executable(C_Study main.c
         과제/14/2-14-6.c
         과제/14/2-14-7.c
         과제/14/2-14-8.c
-        final/CH14/14-2.c
-        final/CH14/14-3.c
-        final/CH14/14-4.c
-        final/CH14/14-5.c
-        final/CH14/14-6.c
-        final/CH14/14-8.c
-        final/CH14/14-9.c
-        final/CH14/14-11.c
-        final/CH14/14-11.c
-        final/CH14/14-18.c
-        final/CH14/14-19.c
+        final/Part3-1/P3-1-2.c
+        final/Part3-1/P3-1-3.c
+        final/Part3-1/P3-1-4.c
+        final/Part3-1/P3-1-5.c
+        final/Part3-1/P3-1-6.c
+        final/Part3-1/P3-1-8.c
+        final/Part3-1/P3-1-9.c
+        final/Part3-1/P3-1-11.c
+        final/Part3-1/P3-1-11.c
+        final/Part3-1/P3-1-18.c
+        final/Part3-1/P3-1-19.c
+        final/Part2-2/P2-2-2.c
+        final/Part2-2/P2-2-3.c
+        final/Part2-2/P2-2-4.c
+        final/Part2-2/P2-2-5.c
+        final/Part2-2/P2-2-6.c
+        final/Part2-2/P2-2-7.c
+        final/Part2-2/P2-2-8.c
+        final/Part2-2/P2-2-9.c
+        final/Part2-2/P2-2-10.c
+        final/Part2-2/P2-2-11.c
+        final/Part2-2/P2-2-12.c
+        final/Part2-3/P2-3-3.c
+        final/Part2-3/P2-3-4.c
+        final/Part2-3/P2-3-6.c
+        final/Part2-3/P2-3-8.c
+        final/Part2-3/P2-3-9.c
+        final/Part2-3/P2-3-10.c
+        final/Part2-3/P2-3-12.c
+        final/Part2-3/P2-3-14.c
+        final/Part2-3/P2-3-15.c
+        final/Part2-3/P2-3-16.c
+        final/Part2-4/P2-4-4.c
+        final/Part2-4/P2-4-5.c
+        final/Part2-4/P2-4-6.c
+        final/Part2-4/P2-4-7.c
+        final/Part2-4/P2-4-8.c
 )
 
 add_executable(4-1 midterm/CH04/4-1.c)
@@ -320,7 +346,8 @@ add_executable(6-2 midterm/CH06/6-2.c)
 add_executable(6-3 midterm/CH06/6-3.c)
 add_executable(6-1 midterm/CH06/6-1.c)
 add_executable(6-4 midterm/CH06/6-4.c)
-add_executable(02 exam/02.c)
+add_executable(02 exam/02.c
+        final/Part2-4/P2-4-1.c)
 add_executable(03 exam/03.c)
 add_executable(04 exam/04.c)
 add_executable(6-13 midterm/CH06/6-13.c)
@@ -516,12 +543,16 @@ add_executable(factorial Ready_to_exam/factorial.c)
 add_executable(fibonachi Ready_to_exam/fibonachi.c)
 add_executable(reverse_word Ready_to_exam/reverse_word.c)
 add_executable(file-record Ready_to_exam/file-record.c)
-add_executable(10-1 final/CH10/10-1.c)
-add_executable(10-2 final/CH10/10-2.c)
-add_executable(10-3 final/CH10/10-3.c)
-add_executable(10-4 final/CH10/10-4.c)
-add_executable(10-5 final/CH10/10-5.c)
-add_executable(10-mine01 final/CH10/10-mine01.c)
+add_executable(P2-1-1 final/Part2-1/P2-1-1.c)
+add_executable(P2-1-2 final/Part2-1/P2-1-2.c)
+add_executable(P2-1-3 final/Part2-1/P2-1-3.c)
+add_executable(P2-1-4 final/Part2-1/P2-1-4.c)
+add_executable(P2-1-5 final/Part2-1/P2-1-5.c)
+add_executable(P2-1-6 final/Part2-1/P2-1-6.c)
+add_executable(P2-1-7 final/Part2-1/P2-1-7.c)
+add_executable(P2-1-8 final/Part2-1/P2-1-8.c)
+add_executable(P2-1-9 final/Part2-1/P2-1-9.c)
+add_executable(P2-1-10 final/Part2-1/P2-1-10.c)
 add_executable(2-10-5 과제/10/2-10-5.c)
 add_executable(2-10-6 과제/10/2-10-6.c)
 add_executable(2-10-7 과제/10/2-10-7.c)
@@ -529,11 +560,16 @@ add_executable(2-10-1 과제/10/2-10-1.c)
 add_executable(2-10-2 과제/10/2-10-2.c)
 add_executable(2-10-3 과제/10/2-10-3.c)
 add_executable(2-10-4 과제/10/2-10-4.c)
+add_executable(P2-2-1 final/Part2-2/P2-2-1.c)
 add_executable(11-4 과제/11/2-11-4.c)
 add_executable(11-5 과제/11/2-11-5.c)
 add_executable(11-6 과제/11/2-11-6.c)
 add_executable(11-7 과제/11/2-11-7.c)
-add_executable(12-1 final/CH12/12-1.c)
+add_executable(P2-3-2 final/Part2-3/P2-3-2.c)
+add_executable(P2-3-5 final/Part2-3/P2-3-5.c)
+add_executable(P2-3-7 final/Part2-3/P2-3-7.c)
+add_executable(P2-3-11 final/Part2-3/P2-3-11.c)
+add_executable(P2-3-13 final/Part2-3/P2-3-13.c)
 add_executable(2-12-1 과제/12/2-12-1.c)
 add_executable(2-13-1 과제/13/2-13-1.c)
 add_executable(2-13-2 과제/13/2-13-2.c)
@@ -549,18 +585,20 @@ add_executable(2-12-4 과제/12/2-12-4.c)
 add_executable(2-12-5 과제/12/2-12-5.c)
 add_executable(2-12-6 과제/12/2-12-6.c)
 add_executable(2-12-7 과제/12/2-12-7.c)
-add_executable(12-7 final/CH12/12-7.c)
-add_executable(13-1 final/CH13/13-1.c)
-add_executable(13-2 final/CH13/13-2.c)
-add_executable(13-3 final/CH13/13-3.c)
-add_executable(13-6 final/CH13/13-6.c)
-add_executable(13-7 final/CH13/13-7.c)
-add_executable(13-8 final/CH13/13-8.c)
-add_executable(13-9 final/CH13/13-9.c)
-add_executable(13-10 final/CH13/13-10.c)
+add_executable(P2-5-1 final/Part2-5/P2-5-1.c)
+add_executable(P2-5-2 final/Part2-5/P2-5-2.c)
+add_executable(P2-5-3 final/Part2-5/P2-5-3.c)
+add_executable(P2-5-3-1 final/Part2-5/P2-5-3-1.c)
+add_executable(P2-5-4 final/Part2-5/P2-5-4.c)
+add_executable(P2-5-5 final/Part2-5/P2-5-5.c)
+add_executable(P2-5-6 final/Part2-5/P2-5-6.c)
+add_executable(P2-5-7 final/Part2-5/P2-5-7.c)
+add_executable(P2-5-8 final/Part2-5/P2-5-8.c)
+add_executable(P2-5-9 final/Part2-5/P2-5-9.c)
+add_executable(P2-5-10 final/Part2-5/P2-5-10.c)
 add_executable(2-14-1 과제/14/2-14-1.c)
-add_executable(13-11 final/CH13/13-11.c)
-add_executable(14-1 final/CH14/14-1.c)
+add_executable(P2-5-11 final/Part2-5/P2-5-11.c)
+add_executable(P3-1-1 final/Part3-1/P3-1-1.c)
 add_executable(2-14-2 과제/14/2-14-2.c)
 add_executable(2-14-3 과제/14/2-14-3.c)
 add_executable(2-14-4 과제/14/2-14-4.c)
@@ -568,6 +606,34 @@ add_executable(2-14-5 과제/14/2-14-5.c)
 add_executable(2-14-6 과제/14/2-14-6.c)
 add_executable(2-14-7 과제/14/2-14-7.c)
 add_executable(2-14-8 과제/14/2-14-8.c)
-add_executable(14-2 final/CH14/14-2.c)
-add_executable(14-5 final/CH14/14-5.c)
-add_executable(14-11 final/CH14/14-11.c)
+add_executable(P3-1-2 final/Part3-1/P3-1-2.c)
+add_executable(P3-1-5 final/Part3-1/P3-1-5.c)
+add_executable(P3-1-11 final/Part3-1/P3-1-11.c)
+add_executable(P3-1-18 final/Part3-1/P3-1-18.c)
+add_executable(P3-1-19 final/Part3-1/P3-1-19.c)
+add_executable(P2-2-2 final/Part2-2/P2-2-2.c)
+add_executable(P2-2-3 final/Part2-2/P2-2-3.c)
+add_executable(P2-2-4 final/Part2-2/P2-2-4.c)
+add_executable(P2-2-5 final/Part2-2/P2-2-5.c)
+add_executable(P2-2-6 final/Part2-2/P2-2-6.c)
+add_executable(P2-2-7 final/Part2-2/P2-2-7.c)
+add_executable(P2-2-8 final/Part2-2/P2-2-8.c)
+add_executable(P2-2-9 final/Part2-2/P2-2-9.c)
+add_executable(P2-2-10 final/Part2-2/P2-2-10.c)
+add_executable(P2-2-11 final/Part2-2/P2-2-11.c)
+add_executable(P2-2-12 final/Part2-2/P2-2-12.c)
+add_executable(P2-3-3 final/Part2-3/P2-3-3.c)
+add_executable(P2-3-4 final/Part2-3/P2-3-4.c)
+add_executable(P2-3-6 final/Part2-3/P2-3-6.c)
+add_executable(P2-3-9 final/Part2-3/P2-3-9.c)
+add_executable(P2-3-8 final/Part2-3/P2-3-8.c)
+add_executable(P2-3-10 final/Part2-3/P2-3-10.c)
+add_executable(P2-3-12 final/Part2-3/P2-3-12.c)
+add_executable(P2-3-14 final/Part2-3/P2-3-14.c)
+add_executable(P2-3-15 final/Part2-3/P2-3-15.c)
+add_executable(P2-3-16 final/Part2-3/P2-3-16.c)
+add_executable(P2-4-4 final/Part2-4/P2-4-4.c)
+add_executable(P2-4-1 final/Part2-4/P2-4-1.c)
+add_executable(P2-4-5 final/Part2-4/P2-4-5.c)
+add_executable(P2-4-6 final/Part2-4/P2-4-6.c)
+add_executable(P2-4-7 final/Part2-4/P2-4-7.c)
