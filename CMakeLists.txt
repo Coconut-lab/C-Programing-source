@@ -332,6 +332,28 @@ add_executable(C_Study main.c
         final/Part2-4/P2-4-6.c
         final/Part2-4/P2-4-7.c
         final/Part2-4/P2-4-8.c
+        final/Part3-1/P3-1-23.c
+        final/Part3-1/P3-1-24.c
+        final/Part3-1/P3-1-25.c
+        final/Part3-1/P3-1-28.c
+        final/Part3-2/P3-2-1.c
+        final/Part3-2/P3-2-2.c
+        final/Part3-2/P3-2-3.c
+        final/Part3-2/P3-2-4.c
+        final/Part3-2/P3-2-5.c
+        final/Part3-1/P3-1-7.c
+        final/Part3-1/P3-1-10.c
+        final/Part3-1/P3-1-13.c
+        final/Part3-1/P3-1-14.c
+        final/Part3-1/P3-1-14-1.c
+        final/Part3-1/P3-1-15.c
+        final/Part3-1/P3-1-16.c
+        final/Part3-1/P3-1-17.c
+        final/Part3-1/P3-1-20.c
+        final/Part3-1/P3-1-21.c
+        final/Part3-1/P3-1-22.c
+        final/Part3-2/P3-2-6.c
+        final/Part3-2/P3-2-7.c
 )
 
 add_executable(4-1 midterm/CH04/4-1.c)
@@ -637,3 +659,18 @@ add_executable(P2-4-1 final/Part2-4/P2-4-1.c)
 add_executable(P2-4-5 final/Part2-4/P2-4-5.c)
 add_executable(P2-4-6 final/Part2-4/P2-4-6.c)
 add_executable(P2-4-7 final/Part2-4/P2-4-7.c)
+add_executable(P3-1-23 final/Part3-1/P3-1-23.c)
+add_executable(P3-1-24 final/Part3-1/P3-1-24.c)
+add_executable(P3-1-25 final/Part3-1/P3-1-25.c)
+add_executable(P3-2-1 final/Part3-2/P3-2-1.c)
+add_executable(P3-2-3 final/Part3-2/P3-2-3.c)
+add_executable(P3-2-4 final/Part3-2/P3-2-4.c)
+add_executable(P3-1-7 final/Part3-1/P3-1-7.c)
+add_executable(P3-1-10 final/Part3-1/P3-1-10.c)
+add_executable(P3-1-15 final/Part3-1/P3-1-15.c)
+add_executable(P3-1-17 final/Part3-1/P3-1-17.c)
+add_executable(P3-1-16 final/Part3-1/P3-1-16.c)
+add_executable(P3-1-20 final/Part3-1/P3-1-20.c)
+add_executable(P3-1-21 final/Part3-1/P3-1-21.c)
+add_executable(P3-1-22 final/Part3-1/P3-1-22.c)
+add_executable(P3-2-7 final/Part3-2/P3-2-7.c)
