@@ -13,6 +13,7 @@ int main(void) {
     gets(array2);
 
     strcat(array1, array2); // 문자열 결합
+    strncat(array1, array2, 14); // 문자열 결합
 
     printf("결합된 문자열 출력: ");
     puts(array1);

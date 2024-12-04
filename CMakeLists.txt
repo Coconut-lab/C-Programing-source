@@ -360,6 +360,18 @@ add_executable(C_Study main.c
         과제/final/11/2-11-1.c
         과제/final/11/2-11-2.c
         과제/final/11/2-11-3.c
+        final/Part3-2/P3-2-9.c
+        final/Part3-2/P3-2-8.c
+        final/Part3-2/P3-2-10.c
+        final/Part3-2/P3-2-11.c
+        final/Part3-2/P3-2-12.c
+        final/Part3-2/P3-2-13.c
+        final/Part3-2/P3-2-14.c
+        final/Part3-2/P3-2-15.c
+        final/Part3-2/P3-2-16.c
+        final/Part3-2/P3-2-17.c
+        final/Part3-2/P3-2-18.c
+        final/Part3-2/P3-2-19.c
 )
 
 add_executable(4-1 midterm/CH04/4-1.c)
@@ -688,3 +700,8 @@ add_executable(P2-11-1 과제/final/11/2-11-1.c)
 add_executable(2-11-1 과제/final/11/2-11-1.c)
 add_executable(2-11-2 과제/final/11/2-11-2.c)
 add_executable(2-11-3 과제/final/11/2-11-3.c)
+add_executable(P3-2-9 final/Part3-2/P3-2-9.c)
+add_executable(P3-2-8 final/Part3-2/P3-2-8.c)
+add_executable(P3-2-11 final/Part3-2/P3-2-11.c)
+add_executable(P3-2-18 final/Part3-2/P3-2-18.c)
+add_executable(P3-2-19 final/Part3-2/P3-2-19.c)
