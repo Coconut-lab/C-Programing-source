@@ -329,5 +329,7 @@
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/P3-2-11.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/P3-2-18.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/P3-2-19.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/3-15-1.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/P3-3-1.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir

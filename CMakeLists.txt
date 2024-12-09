@@ -372,6 +372,8 @@ add_executable(C_Study main.c
         final/Part3-2/P3-2-17.c
         final/Part3-2/P3-2-18.c
         final/Part3-2/P3-2-19.c
+        final/Part3-3/P3-3-1.c
+        final/Part3-3/P3-3-2.c
 )
 
 add_executable(4-1 midterm/CH04/4-1.c)
@@ -705,3 +707,5 @@ add_executable(P3-2-8 final/Part3-2/P3-2-8.c)
 add_executable(P3-2-11 final/Part3-2/P3-2-11.c)
 add_executable(P3-2-18 final/Part3-2/P3-2-18.c)
 add_executable(P3-2-19 final/Part3-2/P3-2-19.c)
+add_executable(3-15-1 과제/final/15/3-15-1.c)
+add_executable(P3-3-1 final/Part3-3/P3-3-1.c)
