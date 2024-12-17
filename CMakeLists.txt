@@ -412,6 +412,20 @@ add_executable(C_Study main.c
         final/Part3-4/P3-4-5.c
         final/Part3-4/P3-4-6.c
         final/Part3-4/P3-4-7.c
+        과제/final/Part3-3/H3-3-1.c
+        과제/final/Part3-3/H3-3-2.c
+        과제/final/Part3-3/H3-3-3.c
+        과제/final/Part3-3/H3-3-4.c
+        과제/final/Part3-3/H3-3-5.c
+        과제/final/Part3-3/H3-3-6.c
+        과제/final/Part3-3/H3-3-7.c
+        과제/final/Part3-3/H3-3-8.c
+        과제/final/Part3-4/H3-4-1.c
+        과제/final/Part3-4/H3-4-2.c
+        과제/final/Part3-4/H3-4-3.c
+        과제/final/Part3-4/H3-4-4.c
+        과제/final/Part3-4/H3-4-5.c
+        과제/final/Part3-4/H3-4-6.c
 )
 
 add_executable(4-1 midterm/CH04/4-1.c)
@@ -782,3 +796,16 @@ add_executable(P3-4-4 final/Part3-4/P3-4-4.c)
 add_executable(P3-4-5 final/Part3-4/P3-4-5.c)
 add_executable(P3-4-6 final/Part3-4/P3-4-6.c)
 add_executable(P3-4-7 final/Part3-4/P3-4-7.c)
+add_executable(H3-3-1 과제/final/Part3-3/H3-3-1.c)
+add_executable(H3-3-2 과제/final/Part3-3/H3-3-2.c)
+add_executable(H3-3-3 과제/final/Part3-3/H3-3-3.c)
+add_executable(H3-3-4 과제/final/Part3-3/H3-3-4.c)
+add_executable(H3-3-5 과제/final/Part3-3/H3-3-5.c)
+add_executable(H3-3-6 과제/final/Part3-3/H3-3-6.c)
+add_executable(H3-3-7 과제/final/Part3-3/H3-3-7.c)
+add_executable(H3-3-8 과제/final/Part3-3/H3-3-8.c)
+add_executable(H3-4-1 과제/final/Part3-4/H3-4-1.c)
+add_executable(H3-4-2 과제/final/Part3-4/H3-4-2.c)
+add_executable(H3-4-3 과제/final/Part3-4/H3-4-3.c)
+add_executable(H3-4-4 과제/final/Part3-4/H3-4-4.c)
+add_executable(H3-4-5 과제/final/Part3-4/H3-4-5.c)
