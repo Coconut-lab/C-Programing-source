@@ -426,6 +426,8 @@ add_executable(C_Study main.c
         과제/final/Part3-4/H3-4-4.c
         과제/final/Part3-4/H3-4-5.c
         과제/final/Part3-4/H3-4-6.c
+        Ready_to_exam/question1.c
+        Ready_to_exam/question2.c
 )
 
 add_executable(4-1 midterm/CH04/4-1.c)
@@ -809,3 +811,5 @@ add_executable(H3-4-2 과제/final/Part3-4/H3-4-2.c)
 add_executable(H3-4-3 과제/final/Part3-4/H3-4-3.c)
 add_executable(H3-4-4 과제/final/Part3-4/H3-4-4.c)
 add_executable(H3-4-5 과제/final/Part3-4/H3-4-5.c)
+add_executable(question1 Ready_to_exam/question1.c)
+add_executable(question2 Ready_to_exam/question2.c)
