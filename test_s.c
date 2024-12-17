@@ -1,29 +1,19 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include<stdio.h>
+#include <stdio.h>
+#include <string.h>
 
 int main(void)
 {
-    int num;
-    int ary[5];
-    int max, min;
-    max = min = ary[0];
+    char array1[50] = "good-morning, good-afternoon, good-evening";
+    char array2[10] = "MORNING";
+    char* p1 = NULL;
+    char* p2 = NULL;
 
-    for(int i=0; i<5; i++)
-    {
-        printf("숫자를 입력하세요: ");
-        scanf("%d", &num);
-        ary[i] = num;
+    p1 = strupr(array1);
+    p2 = strlwr(array2);
 
-        if (ary[i] > max)
-        {
-            max = ary[i];
-        }
-        if (ary[i] < min)
-        {
-            min = ary[i];
-        }
-    }
+    puts(p1);
+    puts(p2);
 
-    printf("입력한 수의 최솟값은 %d, 최댓갑은 %d 입니다.\n", min, max);
     return 0;
 }

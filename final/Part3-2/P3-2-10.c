@@ -8,8 +8,8 @@ int main(void) {
     char* p1 = NULL;
     char* p2 = NULL;
 
-    p1 = strupr(array1);
-    p2 = strlwr(array2);
+    p1 = strupr(array1);    // 사라진 함수
+    p2 = strlwr(array2);    // 사라진 함수
 
     puts(p1);
     puts(p2);

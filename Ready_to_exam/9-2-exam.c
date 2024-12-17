@@ -14,11 +14,11 @@ int main(void) {
 	printf("수 2개 입력: ");
 	scanf("%d %d", &a1, &a2);
 
-	fileopen(&"csb09_log.txt", &"a+");
+	fileopen(&"csb09_log.txt", &"w+");
 	answer = sum(&a1, &a2);
 
 	fprintf(stdout, "%d\n", answer);
-	fprintf(file1, "%d\n", answer);
+	fprintf(file1, "답: %d\n", answer);
 
 	fclose(file1);
 	// system("notepad.exe csb09_log.txt");	// 윈도우에서 실행
