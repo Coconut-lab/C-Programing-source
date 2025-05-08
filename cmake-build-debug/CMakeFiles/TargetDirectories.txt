@@ -381,5 +381,6 @@
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/H3-4-5.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/question1.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/question2.dir
+/Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/GCD.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/chahyeonjin/Documents/C-Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -11,7 +11,7 @@ int gcd(int a, int b) {
 }
 
 int main() {
-    int a = 48, b = 18;
+    int a = 30, b = 15;
     printf("%d와 %d의 최대공약수: %d\n", a, b, gcd(a, b));
     return 0;
 }
